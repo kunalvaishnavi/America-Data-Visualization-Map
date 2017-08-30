@@ -1,2 +1,11 @@
-# America-Data-Visualization-Map
-A map that displays median household income values across the United States
+# America Data Visualization Map by Kunal Vaishnavi
+# A map that compares counties with different values across the United States
+# Computer Science 500 at Phillips Academy
+
+About:
+
+The purpose of this project was to create a map of the United States and compare counties by different values related to income.
+
+Setup:
+
+Download the files into one folder and run America.pde in Processing.
