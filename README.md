@@ -1,4 +1,4 @@
-# America Data Visualization Map by Kunal Vaishnavi
+# America Data Visualization Map (CSC500 Project)
 
 ## About
 The purpose of this project was to create a map of the United States and compare counties by different values related to income. Currently, it is set up so that the counties are compared by median household income in 1979.
